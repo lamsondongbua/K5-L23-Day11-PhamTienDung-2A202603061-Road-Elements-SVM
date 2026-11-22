@@ -1,6 +1,6 @@
 # Phiếu QC 1 — Road v1.0
 
-Lô được kiểm (học viên): (điền tên bạn được kiểm)    Người kiểm (học viên): Phạm Tiến Dũng  
+Lô được kiểm (học viên): (Vi Thanh Duc)    Người kiểm (học viên): Phạm Tiến Dũng  
 Ngày: 2026-11-22    Phiên bản guideline: Road v1.0  
 File được kiểm (tên + `revision` trong manifest): (điền khi có file của bạn được kiểm)  
 Số ảnh kiểm: 6 (+ __ ảnh thêm, ghi riêng)   Số nhãn đã kiểm (shape + tag): (điền)  
